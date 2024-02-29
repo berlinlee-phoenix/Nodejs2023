@@ -1,0 +1,16 @@
+{
+  "name": "requesttime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requestTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon requestTime.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
